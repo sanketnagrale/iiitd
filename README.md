@@ -1,5 +1,16 @@
 # iiitd
 
+## How to run this code
+
+Required packages are given in requrements.txt file
+
+- Main Packages required are:
+```
+tensorflow
+numpy
+matplotlib
+
+```
 
 ## Accuracy and Loss Plot in Part 1
 
