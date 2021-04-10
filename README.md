@@ -18,15 +18,16 @@ The Notebooks provided have the Code.
 
 ## Accuracy and Loss Plot in Part 1
 
-![](https://i.imgur.com/UE7quDR.png)
-Training Accuracy: 80%
+![](https://i.imgur.com/UE7quDR.png)       
+
+Training Accuracy: 80%  
 Validation Accuracy: 73%
 
 ## Accuracy and Loss Plot in Part 2
 ### Pretrained Network 
 ![](https://i.imgur.com/GCiGFnn.png)
-Training accuracy: 0.9692 
-Validation accuracy: 0.9858
+Training accuracy: 0.9692   
+Validation accuracy: 0.9858  
 
 ### Model from Scratch 
 
