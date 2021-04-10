@@ -16,6 +16,13 @@ matplotlib
 ```
 The Notebooks provided have the Code.
 
+There was not a lot of difference between pretrained model and scratch model accuracies in Task 2 and Task 3.
+
+The main difference between datasets in Task 1 and 3 was that the images in Task 1 were labeled and images in Task 3 were unlabeled.
+
+To label the images, First I collected all the images in one single folder, then I used a classifier, predicted the image category and separated the images based on that prediction.
+
+
 ## Accuracy and Loss Plot in Part 1
 
 ![](https://i.imgur.com/UE7quDR.png)       
